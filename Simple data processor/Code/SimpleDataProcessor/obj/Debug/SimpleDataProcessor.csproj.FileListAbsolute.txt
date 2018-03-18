@@ -1,0 +1,6 @@
+c:\users\isimia\documents\visual studio 2015\Projects\SimpleDataProcessor\SimpleDataProcessor\bin\Debug\SimpleDataProcessor.exe.config
+C:\Users\iSimia\documents\visual studio 2015\Projects\SimpleDataProcessor\SimpleDataProcessor\bin\Debug\SimpleDataProcessor.exe
+C:\Users\iSimia\documents\visual studio 2015\Projects\SimpleDataProcessor\SimpleDataProcessor\bin\Debug\SimpleDataProcessor.pdb
+C:\Users\iSimia\documents\visual studio 2015\Projects\SimpleDataProcessor\SimpleDataProcessor\obj\Debug\SimpleDataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\iSimia\documents\visual studio 2015\Projects\SimpleDataProcessor\SimpleDataProcessor\obj\Debug\SimpleDataProcessor.exe
+C:\Users\iSimia\documents\visual studio 2015\Projects\SimpleDataProcessor\SimpleDataProcessor\obj\Debug\SimpleDataProcessor.pdb
